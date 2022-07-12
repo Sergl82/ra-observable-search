@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sergl82/ra-observable-search/static/css/main.a6a86f64.css",
+    "main.js": "/Sergl82/ra-observable-search/static/js/main.6074b146.js",
+    "index.html": "/Sergl82/ra-observable-search/index.html",
+    "main.a6a86f64.css.map": "/Sergl82/ra-observable-search/static/css/main.a6a86f64.css.map",
+    "main.6074b146.js.map": "/Sergl82/ra-observable-search/static/js/main.6074b146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a86f64.css",
+    "static/js/main.6074b146.js"
+  ]
+}
